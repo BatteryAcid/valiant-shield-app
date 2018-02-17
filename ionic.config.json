@@ -1,4 +1,10 @@
 {
-  "name": "the-defender-app",
-  "app_id": "da3b09d0"
+	"name": "the-defender-app",
+    "app_id": "68057fc8",
+    "defaultBrowser": "Chrome",
+    "type": "ionic-angular",
+    "integrations": {
+        "cordova": {}
+    }
+
 }
