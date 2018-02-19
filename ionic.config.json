@@ -1,10 +1,16 @@
 {
-	"name": "the-defender-app",
-    "app_id": "68057fc8",
-    "defaultBrowser": "Chrome",
-    "type": "ionic-angular",
-    "integrations": {
-        "cordova": {}
-    }
-
+  "name": "the-defender-app",
+  "app_id": "68057fc8",
+  "defaultBrowser": "Chrome",
+  "type": "ionic1",
+  "integrations": {
+    "cordova": {},
+    "gulp": {}
+  },
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
 }
