@@ -9,6 +9,7 @@ node_modules
 *.log
 *.tmp
 *.tmp.*
+*.apk
 log.txt
 example/cordova/iOS/www/js/framework
 

@@ -4,13 +4,14 @@
     "cordova": {},
     "gulp": {}
   },
-  "defaultBrowser": "Chrome",
   "type": "ionic1",
+  "defaultBrowser": "Chrome",
   "watchPatterns": [
     "scss/**/*",
     "www/**/*",
     "!www/lib/**/*",
     "!www/**/*.map"
   ],
-  "pro_id": "68057fc8"
+  "pro_id": "68057fc8",
+  "id": "68057fc8"
 }
